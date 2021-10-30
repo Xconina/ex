@@ -1,0 +1,22 @@
+h2 { font-size:20px;
+ 
+}
+ 
+body   { background-color:#5F9EA0; 
+         color:#fff;
+         font-size:18px; }
+form {border-color:#23ad00;}
+h1 {
+    background-color: #11caa2;
+    padding: 20px 0px;
+    margin: 10px 0px;
+}
+#summary {background: #11caa2;
+padding: 10px 0px;
+margin: 10px 0px 10px 0px;}
+#intro {background: rgb(34, 111, 226); padding: 10px 0px 30px 0px;}
+nav {background-color: #11af45;
+padding: 10px 0px;
+margin: 0px 0px 10px 0px;}
+#form {background: rgb(34, 111, 226);
+padding: 10px 0px;}
